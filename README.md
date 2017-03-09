@@ -25,9 +25,7 @@ Separated into topics. Grouped into appearence.
 # Indicators/Arrows
 - `← ↖ ↑ ↗ → ↘ ↓ ↙`
 - `▹ ▸`
-- `●`
-- `◉`
-- `◯`
+- `● ◉ ◯`
 - `❯`
 - `›`
 
